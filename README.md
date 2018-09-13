@@ -14,6 +14,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Algorithms in a Nutshell [[Download]](/book/Algorithms%20in%20a%20Nutshell.epub)
 * Algorithms to Live By - Brian Christian [[Download]](/book/Algorithms%20to%20Live%20By%20-%20Brian%20Christian.epub)
 * Algorithms Unlocked - Thomas H. Cormen [[Download]](/book/Algorithms%20Unlocked%20-%20Thomas%20H.%20Cormen.epub)
+* Code - Charles Petzold [[Download]](/book/code-charles_petzold.pdf)
 * Data Structures & Algorithms in Python [[Download]](/book/Data%20Structures%20%26%20Algorithms%20in%20Python.pdf)
 * Data Structures & Algorithms with JavaScript [[Download]](/book/Data%20Structures%20%26%20Algorithms%20with%20JavaScript.pdf)
 * Data Structures and Algorithms in Python [[Download]](/book/Data%20Structures%20and%20Algorithms%20in%20Python.pdf)
